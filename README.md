@@ -2,7 +2,6 @@
 
 **Character** to Bits is a Java 18 project designed to convert characters into binary bit patterns suitable for display on digital boards. The project generates header files ```(.h)``` containing bit arrays representing characters in either **8x8** or **16x16** pixel grids. These arrays can be used to render characters on digital displays, such as LED matrices or other pixel-based boards.
 
---
 
 ## 📌 Features
 
@@ -72,8 +71,7 @@ File Content Example:
    
 <div align="center">
    <img src="https://github.com/user-attachments/assets/3f012a48-5a0a-42b1-98a7-08a60d023130" alt="Overview Image 1" width="300" style="margin: 10px;" />
-<div align="center">
-   
+</div>
 <img src="https://github.com/user-attachments/assets/641de6c9-3f31-47e5-bdc8-8f126504449d" alt="Overview Image 2" width="700" style="margin: 10px;" />
 
 <img src="https://github.com/user-attachments/assets/c0d9c89a-83cd-4a5b-98b3-7ead0e842b6f" alt="Overview Image 3" width="700" style="margin: 10px;" />
